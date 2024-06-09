@@ -1,0 +1,9 @@
+TODO
+
+1. Create DB
+2. Migration file
+3. Populate fields with factories
+4. Create Controller
+5. CRUD functionality
+6. Generate homepage w/ v0
+7. Host file
